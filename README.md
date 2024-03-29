@@ -18,3 +18,4 @@ Here're some of the project's best features:
 *   OpenAI
 *   Spacy
 *   Hugging Face
+*   TFIDF
